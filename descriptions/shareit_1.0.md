@@ -140,7 +140,7 @@
 ![calender](/img/shareit/calender.png)
 
 또한, 상호평가 단계에서 해시태그를 구현하여 유저의 정보를 좀더 보여주고자 했습니다.
-허나 이 과정에서 백엔드의 변경사항이 너무 많이 구현되지 않았습니다.
+허나 이 과정에서 백엔드의 변경사항이 너무 많아 구현되지 않았습니다.
 
 ![hahstags](/img/shareit/hashtags.png)
 

@@ -7,8 +7,8 @@
 - 2024년 6월 1일 ~ 6월 3일
 
 ---
-![Map](/img/B2BMARKETSHARE/b2bmap_blured.jpg)
 
+![Map](/img/B2BMARKETSHARE/b2bmap_blured.jpg)
 
 ## 배경
 
