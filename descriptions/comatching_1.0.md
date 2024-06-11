@@ -65,7 +65,7 @@ MBTI는 당연히 그 과정에서 필요한 조건이었으며, '좋아하는 �
 
 앞서 말했듯, 접근성이 제일 중요했기 때문에, 별도의 회원가입 절차가 없었습니다. 따라서 별도의 계정 대신 코드를 부여하여 간편한 서비스 이용을 하도록 하였습니다.
 
-![Complete Page](/img/comatching_1.0/_complete_screen.jpg)
+![Complete Page](/img/comatching_1.0/completescreen.jpg)
 
 ---
 
